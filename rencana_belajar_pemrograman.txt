@@ -7,4 +7,4 @@ Rencana Belajar Pemrograman
   - Belajar Phyton
       - Membuat game
   - Belajar Robotica
-      - membuat robot sederhana
+      - Membuat robot sederhana
