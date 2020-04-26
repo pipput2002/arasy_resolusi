@@ -1,0 +1,7 @@
+Rencana Belajar Pemrograman
+  - Belajar JavaScript
+      - Membuat web sederhana
+      - Membuat game sederhana
+  - Belajar Java
+      - Membuat game kompleks
+  - Belajar Phyton
