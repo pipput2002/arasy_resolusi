@@ -4,3 +4,4 @@ Rencana Belajar Pemrograman
       - Membuat game sederhana
   - Belajar Java
       - Membuat game kompleks
+  - Belajar Phyton
